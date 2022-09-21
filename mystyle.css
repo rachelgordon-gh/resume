@@ -1,0 +1,28 @@
+	
+		h1 {font-family: 'Dancing Script', cursive;font-size: 5rem;
+			color: #565656;}		
+
+		h2 {font-size: 1.8rem;}
+
+		body {text-align: left; 
+			background-image: url("pinkpic.jpg"); 
+			color: black;
+			font-size: 1.5rem;
+			margin-left: 200px; margin-right: 200px; margin-top: 100px; margin-bottom: 100px}
+
+		ul {list-style-position: inside;
+			list-style-image: url('flowerr.png'); }
+
+		background-image {opacity: 4;}
+
+		/* unvisited link */
+			a:link {color: red;}
+
+		/* visited link */
+			a:visited {color: mediumpurple;}
+
+		/* mouse over link */
+			a:hover {color: hotpink;}
+	
+		/* selected link */
+			a:active {color: orange;}
