@@ -1,0 +1,24 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+/*buttons */
+.btn-primary {background-color: #D4A373;border-color: #D4A373;} 
+.btn-primary:hover {color: #fff; background-color: #C0715D;border-color: #C0715D;}
+
+#navbarResponsive {background-color: #808080!important}
+#mainNav {background-color: #808080!important}
+
+.navbar-dark .navbar-nav .nav-link {color: white;}
+
+#uxanddesignwork {background-color: #CCD5AE!important}
+
+#writing {background-color: #E9EDC9!important}
+
+#photography {background-color: #FEFAE0!important}
+ 
+#videos {background-color: #F9EBC7!important}
+
+#resume {background-color: #D4A373!important}
+
+.bg-dark{background-color: #blue}
+
+.bg-dark {--bs-bg-opacity: 1; background-color:  #808080!important;}
